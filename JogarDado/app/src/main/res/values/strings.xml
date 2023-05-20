@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JogarDado</string>
+    <string name="jogar_dado">Jogar Dado</string>
+    <string name="todo">TODO</string>
+    <string name="clique_no_bot_o_jogar_e_lance_o_dado">Clique no Botão Jogar e lance o Dado</string>
+    <string name="clique_no_bot_o_jogar_dado">Clique no botão Jogar Dado</string>
+</resources>
